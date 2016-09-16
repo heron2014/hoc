@@ -7,7 +7,10 @@ They are components that adds additional functionality to existing component tha
 
 ![hoc](img-readme/hoc.png)
 
-### Auth process
+Pattern for Auth Hoc [here](https://github.com/heron2014/hoc/blob/master/src/components/require_authentication.js)
+
+#### Auth process
+Basic auth process for this example (only client side)
 
 ![auth](img-readme/auth-process.png)
 
